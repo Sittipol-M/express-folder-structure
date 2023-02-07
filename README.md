@@ -1,4 +1,4 @@
-app.js # App entry point
+app.js # App entry point\n
 └─── configs # Configuration related stuff
 └─── controllers # Controllers for all the endpoints
 └─── helpers # Utility function
